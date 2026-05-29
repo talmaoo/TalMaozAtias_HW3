@@ -1,6 +1,6 @@
 # HW3 – Customer Service Data Analyst Agent
 
-**Students:** Tal Maoz & [Partner Name]
+**Student:** Tal Maoz Atias
 
 ## Project Overview
 
