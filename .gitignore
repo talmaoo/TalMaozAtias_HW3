@@ -1,0 +1,12 @@
+.env
+
+__pycache__/
+*.pyc
+
+memory/
+profiles/
+
+.venv/
+venv/
+
+.vscode/
